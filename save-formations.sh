@@ -1,0 +1,1 @@
+pbpaste | jq > formations/$1.json
