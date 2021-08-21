@@ -7,6 +7,8 @@
 1. Copy the contents from `parse-fromations.js` into the console of the Dev Tools
 1. Enter
 1. Run `./save-formations.sh ${GAME_NUMBER}`
+1. Run `node output-formations.js ${GAME_NUMBER} | pbcopy`
+1. Paste it into google sheets
 
 ## Players
 
