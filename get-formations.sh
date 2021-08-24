@@ -1,1 +1,0 @@
-node output-formations.js $1 | pbcopy
