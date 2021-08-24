@@ -1,0 +1,1 @@
+pbpaste | jq > teams/all.json
