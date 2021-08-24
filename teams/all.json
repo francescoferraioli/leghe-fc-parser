@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "AS Trazenica",
+    "coach": "Diego Stufregnone",
+    "players": [
+      {
+        "role": "P",
+        "name": "berisha",
+        "team": "Torino"
+      },
+      {
+        "role": "P",
+        "name": "montipo'",
+        "team": "Verona"
+      },
+      {
+        "role": "P",
+        "name": "musso",
+        "team": "Atalanta"
+      },
+      {
+        "role": "D",
+        "name": "caldara",
+        "team": "Venezia"
+      },
+      {
+        "role": "D",
+        "name": "de ligt",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "de vrij",
+        "team": "Inter"
+      },
+      {
+        "role": "D",
+        "name": "demiral",
+        "team": "Atalanta"
+      },
+      {
+        "role": "D",
+        "name": "dimarco",
+        "team": "Inter"
+      },
+      {
+        "role": "D",
+        "name": "hickey",
+        "team": "Bologna"
+      },
+      {
+        "role": "D",
+        "name": "reynolds",
+        "team": "Roma"
+      },
+      {
+        "role": "D",
+        "name": "skriniar",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "barella",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "busio",
+        "team": "Venezia"
+      },
+      {
+        "role": "C",
+        "name": "felipe anderson",
+        "team": "Lazio"
+      },
+      {
+        "role": "C",
+        "name": "kulusevski",
+        "team": "Juventus"
+      },
+      {
+        "role": "C",
+        "name": "milinkovic-savic",
+        "team": "Lazio"
+      },
+      {
+        "role": "C",
+        "name": "pasalic",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "pulgar",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "C",
+        "name": "tonali",
+        "team": "Milan"
+      },
+      {
+        "role": "A",
+        "name": "caputo",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "A",
+        "name": "deulofeu",
+        "team": "Udinese"
+      },
+      {
+        "role": "A",
+        "name": "dybala",
+        "team": "Juventus"
+      },
+      {
+        "role": "A",
+        "name": "el shaarawy",
+        "team": "Roma"
+      },
+      {
+        "role": "A",
+        "name": "mancuso",
+        "team": "Empoli"
+      },
+      {
+        "role": "A",
+        "name": "simy",
+        "team": "Salernitana"
+      }
+    ]
+  },
+  {
+    "name": "Zwainstuck",
+    "coach": "Culovic",
+    "players": [
+      {
+        "role": "P",
+        "name": "consigli",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "P",
+        "name": "handanovic",
+        "team": "Inter"
+      },
+      {
+        "role": "P",
+        "name": "vicario",
+        "team": "Empoli"
+      },
+      {
+        "role": "D",
+        "name": "acerbi",
+        "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "ansaldi",
+        "team": "Torino"
+      },
+      {
+        "role": "D",
+        "name": "djimsiti",
+        "team": "Atalanta"
+      },
+      {
+        "role": "D",
+        "name": "faraoni",
+        "team": "Verona"
+      },
+      {
+        "role": "D",
+        "name": "florenzi",
+        "team": "Milan"
+      },
+      {
+        "role": "D",
+        "name": "gosens",
+        "team": "Atalanta"
+      },
+      {
+        "role": "D",
+        "name": "hysaj",
+        "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "manolas",
+        "team": "Napoli"
+      },
+      {
+        "role": "C",
+        "name": "calhanoglu",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "pellegrini lo.",
+        "team": "Roma"
+      },
+      {
+        "role": "C",
+        "name": "perisic",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "sensi",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "soriano",
+        "team": "Bologna"
+      },
+      {
+        "role": "C",
+        "name": "sottil",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "C",
+        "name": "verdi",
+        "team": "Torino"
+      },
+      {
+        "role": "C",
+        "name": "zaccagni",
+        "team": "Verona"
+      },
+      {
+        "role": "A",
+        "name": "arnautovic",
+        "team": "Bologna"
+      },
+      {
+        "role": "A",
+        "name": "dzeko",
+        "team": "Inter"
+      },
+      {
+        "role": "A",
+        "name": "forte",
+        "team": "Venezia"
+      },
+      {
+        "role": "A",
+        "name": "raspadori",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "A",
+        "name": "verde",
+        "team": "Spezia"
+      },
+      {
+        "role": "A",
+        "name": "zapata d.",
+        "team": "Atalanta"
+      }
+    ]
+  },
+  {
+    "name": "Old Castle United",
+    "coach": "SayMyNameSimone",
+    "players": [
+      {
+        "role": "P",
+        "name": "cragno",
+        "team": "Cagliari"
+      },
+      {
+        "role": "P",
+        "name": "meret",
+        "team": "Napoli"
+      },
+      {
+        "role": "P",
+        "name": "zoet",
+        "team": "Spezia"
+      },
+      {
+        "role": "D",
+        "name": "alex sandro",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "augello",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "D",
+        "name": "bastoni s.",
+        "team": "Spezia"
+      },
+      {
+        "role": "D",
+        "name": "biraghi",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "D",
+        "name": "dumfries",
+        "team": "Inter"
+      },
+      {
+        "role": "D",
+        "name": "hernandez t.",
+        "team": "Milan"
+      },
+      {
+        "role": "D",
+        "name": "mbaye",
+        "team": "Bologna"
+      },
+      {
+        "role": "D",
+        "name": "romagnoli",
+        "team": "Milan"
+      },
+      {
+        "role": "C",
+        "name": "brozovic",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "callejon",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "C",
+        "name": "candreva",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "C",
+        "name": "coulibaly m.",
+        "team": "Salernitana"
+      },
+      {
+        "role": "C",
+        "name": "lazovic",
+        "team": "Verona"
+      },
+      {
+        "role": "C",
+        "name": "matheus henrique",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "C",
+        "name": "miranchuk",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "ramsey",
+        "team": "Juventus"
+      },
+      {
+        "role": "A",
+        "name": "destro",
+        "team": "Genoa"
+      },
+      {
+        "role": "A",
+        "name": "ilicic",
+        "team": "Atalanta"
+      },
+      {
+        "role": "A",
+        "name": "immobile",
+        "team": "Lazio"
+      },
+      {
+        "role": "A",
+        "name": "mertens",
+        "team": "Napoli"
+      },
+      {
+        "role": "A",
+        "name": "politano",
+        "team": "Napoli"
+      },
+      {
+        "role": "A",
+        "name": "rebic",
+        "team": "Milan"
+      }
+    ]
+  },
+  {
+    "name": "Pjanic at the Disco",
+    "coach": "Kroos Control",
+    "players": [
+      {
+        "role": "P",
+        "name": "audero",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "P",
+        "name": "furlan",
+        "team": "Empoli"
+      },
+      {
+        "role": "P",
+        "name": "sirigu",
+        "team": "Genoa"
+      },
+      {
+        "role": "D",
+        "name": "de silvestri",
+        "team": "Bologna"
+      },
+      {
+        "role": "D",
+        "name": "ferrari g.",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "D",
+        "name": "izzo",
+        "team": "Torino"
+      },
+      {
+        "role": "D",
+        "name": "lazzari",
+        "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "lykogiannis",
+        "team": "Cagliari"
+      },
+      {
+        "role": "D",
+        "name": "mancini",
+        "team": "Roma"
+      },
+      {
+        "role": "D",
+        "name": "milenkovic",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "D",
+        "name": "tomiyasu",
+        "team": "Bologna"
+      },
+      {
+        "role": "C",
+        "name": "barak",
+        "team": "Verona"
+      },
+      {
+        "role": "C",
+        "name": "de roon",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "freuler",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "jankto *",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "C",
+        "name": "marin",
+        "team": "Cagliari"
+      },
+      {
+        "role": "C",
+        "name": "nandez",
+        "team": "Cagliari"
+      },
+      {
+        "role": "C",
+        "name": "svanberg",
+        "team": "Bologna"
+      },
+      {
+        "role": "C",
+        "name": "traore' hj.",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "A",
+        "name": "ibrahimovic",
+        "team": "Milan"
+      },
+      {
+        "role": "A",
+        "name": "insigne",
+        "team": "Napoli"
+      },
+      {
+        "role": "A",
+        "name": "martinez l.",
+        "team": "Inter"
+      },
+      {
+        "role": "A",
+        "name": "mayoral",
+        "team": "Roma"
+      },
+      {
+        "role": "A",
+        "name": "morata",
+        "team": "Juventus"
+      },
+      {
+        "role": "A",
+        "name": "ronaldo",
+        "team": "Juventus"
+      }
+    ]
+  },
+  {
+    "name": "WEST PORK ",
+    "coach": "Jak9602",
+    "players": [
+      {
+        "role": "P",
+        "name": "milinkovic-savic v.",
+        "team": "Torino"
+      },
+      {
+        "role": "P",
+        "name": "rui patricio",
+        "team": "Roma"
+      },
+      {
+        "role": "P",
+        "name": "silvestri",
+        "team": "Udinese"
+      },
+      {
+        "role": "D",
+        "name": "aina",
+        "team": "Torino"
+      },
+      {
+        "role": "D",
+        "name": "amian",
+        "team": "Spezia"
+      },
+      {
+        "role": "D",
+        "name": "cuadrado",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "dalbert",
+        "team": "Cagliari"
+      },
+      {
+        "role": "D",
+        "name": "gunter",
+        "team": "Verona"
+      },
+      {
+        "role": "D",
+        "name": "koulibaly",
+        "team": "Napoli"
+      },
+      {
+        "role": "D",
+        "name": "luiz felipe",
+        "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "tomori",
+        "team": "Milan"
+      },
+      {
+        "role": "C",
+        "name": "bernardeschi",
+        "team": "Juventus"
+      },
+      {
+        "role": "C",
+        "name": "bonaventura",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "C",
+        "name": "chiesa",
+        "team": "Juventus"
+      },
+      {
+        "role": "C",
+        "name": "damsgaard",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "C",
+        "name": "diaz b.",
+        "team": "Milan"
+      },
+      {
+        "role": "C",
+        "name": "djuricic",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "C",
+        "name": "kessie'",
+        "team": "Milan"
+      },
+      {
+        "role": "C",
+        "name": "zaniolo",
+        "team": "Roma"
+      },
+      {
+        "role": "A",
+        "name": "abraham",
+        "team": "Roma"
+      },
+      {
+        "role": "A",
+        "name": "gonzalez n.",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "A",
+        "name": "lammers",
+        "team": "Atalanta"
+      },
+      {
+        "role": "A",
+        "name": "okereke",
+        "team": "Venezia"
+      },
+      {
+        "role": "A",
+        "name": "osimhen",
+        "team": "Napoli"
+      },
+      {
+        "role": "A",
+        "name": "pavoletti",
+        "team": "Cagliari"
+      }
+    ]
+  },
+  {
+    "name": "TERAMUM",
+    "coach": "CASSIO",
+    "players": [
+      {
+        "role": "P",
+        "name": "ospina",
+        "team": "Napoli"
+      },
+      {
+        "role": "P",
+        "name": "reina",
+        "team": "Lazio"
+      },
+      {
+        "role": "P",
+        "name": "strakosha",
+        "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "bonifazi",
+        "team": "Bologna"
+      },
+      {
+        "role": "D",
+        "name": "calabria",
+        "team": "Milan"
+      },
+      {
+        "role": "D",
+        "name": "chiriches",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "D",
+        "name": "kjaer",
+        "team": "Milan"
+      },
+      {
+        "role": "D",
+        "name": "maehle",
+        "team": "Atalanta"
+      },
+      {
+        "role": "D",
+        "name": "molina n.",
+        "team": "Udinese"
+      },
+      {
+        "role": "D",
+        "name": "singo",
+        "team": "Torino"
+      },
+      {
+        "role": "D",
+        "name": "zappa",
+        "team": "Cagliari"
+      },
+      {
+        "role": "C",
+        "name": "akpa akpro",
+        "team": "Lazio"
+      },
+      {
+        "role": "C",
+        "name": "bennacer",
+        "team": "Milan"
+      },
+      {
+        "role": "C",
+        "name": "bentancur",
+        "team": "Juventus"
+      },
+      {
+        "role": "C",
+        "name": "locatelli",
+        "team": "Juventus"
+      },
+      {
+        "role": "C",
+        "name": "mandragora",
+        "team": "Torino"
+      },
+      {
+        "role": "C",
+        "name": "orsolini",
+        "team": "Bologna"
+      },
+      {
+        "role": "C",
+        "name": "pessina",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "pobega",
+        "team": "Milan"
+      },
+      {
+        "role": "A",
+        "name": "bonazzoli",
+        "team": "Salernitana"
+      },
+      {
+        "role": "A",
+        "name": "giroud",
+        "team": "Milan"
+      },
+      {
+        "role": "A",
+        "name": "lozano",
+        "team": "Napoli"
+      },
+      {
+        "role": "A",
+        "name": "pjaca",
+        "team": "Torino"
+      },
+      {
+        "role": "A",
+        "name": "sanabria",
+        "team": "Torino"
+      },
+      {
+        "role": "A",
+        "name": "scamacca",
+        "team": "Sassuolo"
+      }
+    ]
+  },
+  {
+    "name": "cebollas",
+    "coach": "Chiero Lecce",
+    "players": [
+      {
+        "role": "P",
+        "name": "belec",
+        "team": "Salernitana"
+      },
+      {
+        "role": "P",
+        "name": "dragowski",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "P",
+        "name": "terracciano",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "D",
+        "name": "chiellini",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "danilo",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "ibanez",
+        "team": "Roma"
+      },
+      {
+        "role": "D",
+        "name": "karsdorp",
+        "team": "Roma"
+      },
+      {
+        "role": "D",
+        "name": "nuytinck",
+        "team": "Udinese"
+      },
+      {
+        "role": "D",
+        "name": "smalling",
+        "team": "Roma"
+      },
+      {
+        "role": "D",
+        "name": "spinazzola",
+        "team": "Roma"
+      },
+      {
+        "role": "D",
+        "name": "yoshida",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "C",
+        "name": "arslan",
+        "team": "Udinese"
+      },
+      {
+        "role": "C",
+        "name": "castrovilli",
+        "team": "Fiorentina"
+      },
+      {
+        "role": "C",
+        "name": "luis alberto",
+        "team": "Lazio"
+      },
+      {
+        "role": "C",
+        "name": "malinovskyi",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "ruiz",
+        "team": "Napoli"
+      },
+      {
+        "role": "C",
+        "name": "strootman",
+        "team": "Cagliari"
+      },
+      {
+        "role": "C",
+        "name": "thorsby",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "C",
+        "name": "zielinski",
+        "team": "Napoli"
+      },
+      {
+        "role": "A",
+        "name": "barrow",
+        "team": "Bologna"
+      },
+      {
+        "role": "A",
+        "name": "berardi",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "A",
+        "name": "muriel",
+        "team": "Atalanta"
+      },
+      {
+        "role": "A",
+        "name": "pedro",
+        "team": "Lazio"
+      },
+      {
+        "role": "A",
+        "name": "quagliarella",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "A",
+        "name": "rafael leao",
+        "team": "Milan"
+      }
+    ]
+  },
+  {
+    "name": "bellies",
+    "coach": "Anglicano Disordinato",
+    "players": [
+      {
+        "role": "P",
+        "name": "maignan",
+        "team": "Milan"
+      },
+      {
+        "role": "P",
+        "name": "skorupski",
+        "team": "Bologna"
+      },
+      {
+        "role": "P",
+        "name": "szczesny",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "bastoni",
+        "team": "Inter"
+      },
+      {
+        "role": "D",
+        "name": "bonucci",
+        "team": "Juventus"
+      },
+      {
+        "role": "D",
+        "name": "bremer",
+        "team": "Torino"
+      },
+      {
+        "role": "D",
+        "name": "criscito",
+        "team": "Genoa"
+      },
+      {
+        "role": "D",
+        "name": "darmian",
+        "team": "Inter"
+      },
+      {
+        "role": "D",
+        "name": "di lorenzo",
+        "team": "Napoli"
+      },
+      {
+        "role": "D",
+        "name": "hateboer",
+        "team": "Atalanta"
+      },
+      {
+        "role": "D",
+        "name": "toloi",
+        "team": "Atalanta"
+      },
+      {
+        "role": "C",
+        "name": "aramu",
+        "team": "Venezia"
+      },
+      {
+        "role": "C",
+        "name": "hernani",
+        "team": "Genoa"
+      },
+      {
+        "role": "C",
+        "name": "maggiore",
+        "team": "Spezia"
+      },
+      {
+        "role": "C",
+        "name": "mckennie",
+        "team": "Juventus"
+      },
+      {
+        "role": "C",
+        "name": "miguel veloso",
+        "team": "Verona"
+      },
+      {
+        "role": "C",
+        "name": "mkhitaryan",
+        "team": "Roma"
+      },
+      {
+        "role": "C",
+        "name": "pereyra",
+        "team": "Udinese"
+      },
+      {
+        "role": "C",
+        "name": "veretout",
+        "team": "Roma"
+      },
+      {
+        "role": "A",
+        "name": "belotti",
+        "team": "Torino"
+      },
+      {
+        "role": "A",
+        "name": "correa",
+        "team": "Lazio"
+      },
+      {
+        "role": "A",
+        "name": "joao pedro",
+        "team": "Cagliari"
+      },
+      {
+        "role": "A",
+        "name": "nzola",
+        "team": "Spezia"
+      },
+      {
+        "role": "A",
+        "name": "shomurodov",
+        "team": "Roma"
+      },
+      {
+        "role": "A",
+        "name": "vlahovic",
+        "team": "Fiorentina"
+      }
+    ]
+  }
+]
