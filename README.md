@@ -22,6 +22,10 @@
 
 ## Players
 
+### Votes
+
+1. Open up this [URL](https://www.fantacalcio.it/voti-fantacalcio-serie-a/2021-22/1)
+
 ### Historical Stats
 
 1. Open up this [URL](https://www.footballcritic.com/serie-a/season-2020-2021/player-stats/all/8/45810)
