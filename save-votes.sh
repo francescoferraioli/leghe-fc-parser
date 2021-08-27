@@ -1,0 +1,1 @@
+pbpaste | jq > votes/$1.json

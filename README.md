@@ -25,6 +25,12 @@
 ### Votes
 
 1. Open up this [URL](https://www.fantacalcio.it/voti-fantacalcio-serie-a/2021-22/1)
+1. Open up the Dev Tools
+1. Copy the contents from `parse-votes.js` into the console of the Dev Tools
+1. Enter
+1. Run `./save-votes.sh`
+1. Run `./copy-votes.sh`
+1. Paste it into google sheets
 
 ### Historical Stats
 

@@ -1,0 +1,1 @@
+node output-votes.js $1 | pbcopy
