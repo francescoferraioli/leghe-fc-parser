@@ -9,7 +9,7 @@ const position = "86"
 const goalsIndex = "20"
 const assistsIndex = "21"
 
-const players = JSON.parse(fs.readFileSync('players/stats.json', 'utf8'))
+const players = JSON.parse(fs.readFileSync('dist/players/stats.json', 'utf8'))
 
 players.forEach(outputPlayer)
 

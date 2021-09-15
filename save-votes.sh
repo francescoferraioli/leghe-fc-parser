@@ -1,1 +1,1 @@
-pbpaste | jq > votes/$1.json
+pbpaste | jq > dist/votes/$1.json

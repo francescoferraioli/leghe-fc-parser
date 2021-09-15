@@ -1,1 +1,1 @@
-pbpaste | jq > teams/all.json
+pbpaste | jq > dist/teams/all.json

@@ -10,7 +10,7 @@ if(!game) {
 const headers = ["Name", "Role", "Percetage", "Starting", "Team", "H/A", "Versing"]
 console.log(headers.join(","))
 
-const games = JSON.parse(fs.readFileSync(`formations/${game}.json`, 'utf8'))
+const games = JSON.parse(fs.readFileSync(`dist/formations/${game}.json`, 'utf8'))
 
 games.forEach(outputGame)
 

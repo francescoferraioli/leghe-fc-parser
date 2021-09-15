@@ -1,1 +1,1 @@
-pbpaste | jq > formations/$1.json
+pbpaste | jq > dist/formations/$1.json

@@ -24,7 +24,7 @@ const headers = [
 
 console.log(headers.join(","))
 
-const votes = JSON.parse(fs.readFileSync(`votes/${game}.json`, 'utf8'))
+const votes = JSON.parse(fs.readFileSync(`dist/votes/${game}.json`, 'utf8'))
 
 votes.forEach(outputVote)
 
