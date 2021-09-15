@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:francescoferraioli/leghe-fc-parser.git",
   "author": "Francesco Ferraioli <francesco.ferraioli@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "zx": "^4.2.0"
+  }
 }
