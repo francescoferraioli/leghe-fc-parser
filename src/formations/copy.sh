@@ -1,1 +1,1 @@
-node output-formations.js $1 | pbcopy
+node src/formations/output.js $1 | pbcopy

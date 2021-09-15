@@ -1,1 +1,1 @@
-node output-votes.js $1 | pbcopy
+node src/votes/output.js $1 | pbcopy

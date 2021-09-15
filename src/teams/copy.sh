@@ -1,1 +1,1 @@
-node output-teams.js | pbcopy
+node src/teams/output.js | pbcopy
