@@ -50,23 +50,18 @@
       },
       {
         "role": "D",
-        "name": "reynolds",
-        "team": "Roma"
+        "name": "skriniar",
+        "team": "Inter"
       },
       {
         "role": "D",
-        "name": "skriniar",
-        "team": "Inter"
+        "name": "vina",
+        "team": "Roma"
       },
       {
         "role": "C",
         "name": "barella",
         "team": "Inter"
-      },
-      {
-        "role": "C",
-        "name": "busio",
-        "team": "Venezia"
       },
       {
         "role": "C",
@@ -95,13 +90,18 @@
       },
       {
         "role": "C",
+        "name": "samardzic",
+        "team": "Udinese"
+      },
+      {
+        "role": "C",
         "name": "tonali",
         "team": "Milan"
       },
       {
         "role": "A",
         "name": "caputo",
-        "team": "Sassuolo"
+        "team": "Sampdoria"
       },
       {
         "role": "A",
@@ -115,18 +115,18 @@
       },
       {
         "role": "A",
-        "name": "el shaarawy",
-        "team": "Roma"
-      },
-      {
-        "role": "A",
         "name": "mancuso",
         "team": "Empoli"
       },
       {
         "role": "A",
-        "name": "simy",
+        "name": "ribery",
         "team": "Salernitana"
+      },
+      {
+        "role": "A",
+        "name": "sanchez",
+        "team": "Inter"
       }
     ]
   },
@@ -161,6 +161,11 @@
       },
       {
         "role": "D",
+        "name": "cambiaso",
+        "team": "Genoa"
+      },
+      {
+        "role": "D",
         "name": "djimsiti",
         "team": "Atalanta"
       },
@@ -185,14 +190,19 @@
         "team": "Lazio"
       },
       {
-        "role": "D",
-        "name": "manolas",
-        "team": "Napoli"
-      },
-      {
         "role": "C",
         "name": "calhanoglu",
         "team": "Inter"
+      },
+      {
+        "role": "C",
+        "name": "cristante",
+        "team": "Roma"
+      },
+      {
+        "role": "C",
+        "name": "lukic",
+        "team": "Torino"
       },
       {
         "role": "C",
@@ -202,11 +212,6 @@
       {
         "role": "C",
         "name": "perisic",
-        "team": "Inter"
-      },
-      {
-        "role": "C",
-        "name": "sensi",
         "team": "Inter"
       },
       {
@@ -221,13 +226,8 @@
       },
       {
         "role": "C",
-        "name": "verdi",
-        "team": "Torino"
-      },
-      {
-        "role": "C",
         "name": "zaccagni",
-        "team": "Verona"
+        "team": "Lazio"
       },
       {
         "role": "A",
@@ -241,8 +241,8 @@
       },
       {
         "role": "A",
-        "name": "forte",
-        "team": "Venezia"
+        "name": "el shaarawy",
+        "team": "Roma"
       },
       {
         "role": "A",
@@ -413,6 +413,11 @@
       },
       {
         "role": "D",
+        "name": "colley",
+        "team": "Sampdoria"
+      },
+      {
+        "role": "D",
         "name": "de silvestri",
         "team": "Bologna"
       },
@@ -447,11 +452,6 @@
         "team": "Fiorentina"
       },
       {
-        "role": "D",
-        "name": "tomiyasu",
-        "team": "Bologna"
-      },
-      {
         "role": "C",
         "name": "barak",
         "team": "Verona"
@@ -468,8 +468,8 @@
       },
       {
         "role": "C",
-        "name": "jankto *",
-        "team": "Sampdoria"
+        "name": "maggiore",
+        "team": "Spezia"
       },
       {
         "role": "C",
@@ -518,8 +518,8 @@
       },
       {
         "role": "A",
-        "name": "ronaldo",
-        "team": "Juventus"
+        "name": "nzola",
+        "team": "Spezia"
       }
     ]
   },
@@ -549,11 +549,6 @@
       },
       {
         "role": "D",
-        "name": "amian",
-        "team": "Spezia"
-      },
-      {
-        "role": "D",
         "name": "cuadrado",
         "team": "Juventus"
       },
@@ -576,6 +571,11 @@
         "role": "D",
         "name": "luiz felipe",
         "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "stryger larsen",
+        "team": "Udinese"
       },
       {
         "role": "D",
@@ -634,13 +634,8 @@
       },
       {
         "role": "A",
-        "name": "lammers",
-        "team": "Atalanta"
-      },
-      {
-        "role": "A",
-        "name": "okereke",
-        "team": "Venezia"
+        "name": "keita b.",
+        "team": "Cagliari"
       },
       {
         "role": "A",
@@ -649,8 +644,13 @@
       },
       {
         "role": "A",
-        "name": "pavoletti",
-        "team": "Cagliari"
+        "name": "pussetto",
+        "team": "Udinese"
+      },
+      {
+        "role": "A",
+        "name": "simeone",
+        "team": "Verona"
       }
     ]
   },
@@ -685,8 +685,8 @@
       },
       {
         "role": "D",
-        "name": "chiriches",
-        "team": "Sassuolo"
+        "name": "fares",
+        "team": "Genoa"
       },
       {
         "role": "D",
@@ -705,23 +705,13 @@
       },
       {
         "role": "D",
-        "name": "singo",
-        "team": "Torino"
+        "name": "rrahmani",
+        "team": "Napoli"
       },
       {
         "role": "D",
-        "name": "zappa",
-        "team": "Cagliari"
-      },
-      {
-        "role": "C",
-        "name": "akpa akpro",
-        "team": "Lazio"
-      },
-      {
-        "role": "C",
-        "name": "bennacer",
-        "team": "Milan"
+        "name": "singo",
+        "team": "Torino"
       },
       {
         "role": "C",
@@ -751,12 +741,27 @@
       {
         "role": "C",
         "name": "pobega",
+        "team": "Torino"
+      },
+      {
+        "role": "C",
+        "name": "saelemaekers",
         "team": "Milan"
       },
       {
+        "role": "C",
+        "name": "saponara",
+        "team": "Fiorentina"
+      },
+      {
         "role": "A",
-        "name": "bonazzoli",
-        "team": "Salernitana"
+        "name": "boga",
+        "team": "Sassuolo"
+      },
+      {
+        "role": "A",
+        "name": "caicedo",
+        "team": "Genoa"
       },
       {
         "role": "A",
@@ -765,23 +770,18 @@
       },
       {
         "role": "A",
+        "name": "kalinic",
+        "team": "Verona"
+      },
+      {
+        "role": "A",
         "name": "lozano",
         "team": "Napoli"
       },
       {
         "role": "A",
-        "name": "pjaca",
-        "team": "Torino"
-      },
-      {
-        "role": "A",
         "name": "sanabria",
         "team": "Torino"
-      },
-      {
-        "role": "A",
-        "name": "scamacca",
-        "team": "Sassuolo"
       }
     ]
   },
@@ -791,13 +791,13 @@
     "players": [
       {
         "role": "P",
-        "name": "belec",
-        "team": "Salernitana"
+        "name": "dragowski",
+        "team": "Fiorentina"
       },
       {
         "role": "P",
-        "name": "dragowski",
-        "team": "Fiorentina"
+        "name": "lezzerini",
+        "team": "Venezia"
       },
       {
         "role": "P",
@@ -826,8 +826,8 @@
       },
       {
         "role": "D",
-        "name": "nuytinck",
-        "team": "Udinese"
+        "name": "mario rui",
+        "team": "Napoli"
       },
       {
         "role": "D",
@@ -841,18 +841,23 @@
       },
       {
         "role": "D",
-        "name": "yoshida",
-        "team": "Sampdoria"
+        "name": "zappacosta",
+        "team": "Atalanta"
       },
       {
         "role": "C",
-        "name": "arslan",
-        "team": "Udinese"
+        "name": "bajrami",
+        "team": "Empoli"
       },
       {
         "role": "C",
         "name": "castrovilli",
         "team": "Fiorentina"
+      },
+      {
+        "role": "C",
+        "name": "ilic",
+        "team": "Verona"
       },
       {
         "role": "C",
@@ -871,13 +876,8 @@
       },
       {
         "role": "C",
-        "name": "strootman",
-        "team": "Cagliari"
-      },
-      {
-        "role": "C",
-        "name": "thorsby",
-        "team": "Sampdoria"
+        "name": "zambo anguissa",
+        "team": "Napoli"
       },
       {
         "role": "C",
@@ -886,13 +886,18 @@
       },
       {
         "role": "A",
-        "name": "barrow",
-        "team": "Bologna"
+        "name": "berardi",
+        "team": "Sassuolo"
       },
       {
         "role": "A",
-        "name": "berardi",
-        "team": "Sassuolo"
+        "name": "gyasi",
+        "team": "Spezia"
+      },
+      {
+        "role": "A",
+        "name": "kean",
+        "team": "Juventus"
       },
       {
         "role": "A",
@@ -903,11 +908,6 @@
         "role": "A",
         "name": "pedro",
         "team": "Lazio"
-      },
-      {
-        "role": "A",
-        "name": "quagliarella",
-        "team": "Sampdoria"
       },
       {
         "role": "A",
@@ -982,23 +982,13 @@
       },
       {
         "role": "C",
-        "name": "hernani",
-        "team": "Genoa"
-      },
-      {
-        "role": "C",
-        "name": "maggiore",
-        "team": "Spezia"
-      },
-      {
-        "role": "C",
         "name": "mckennie",
         "team": "Juventus"
       },
       {
         "role": "C",
-        "name": "miguel veloso",
-        "team": "Verona"
+        "name": "messias",
+        "team": "Milan"
       },
       {
         "role": "C",
@@ -1012,8 +1002,18 @@
       },
       {
         "role": "C",
+        "name": "vecino",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
         "name": "veretout",
         "team": "Roma"
+      },
+      {
+        "role": "C",
+        "name": "vidal",
+        "team": "Inter"
       },
       {
         "role": "A",
@@ -1023,7 +1023,7 @@
       {
         "role": "A",
         "name": "correa",
-        "team": "Lazio"
+        "team": "Inter"
       },
       {
         "role": "A",
@@ -1032,8 +1032,8 @@
       },
       {
         "role": "A",
-        "name": "nzola",
-        "team": "Spezia"
+        "name": "quagliarella",
+        "team": "Sampdoria"
       },
       {
         "role": "A",
