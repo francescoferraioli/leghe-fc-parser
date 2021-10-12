@@ -176,11 +176,6 @@
       },
       {
         "role": "D",
-        "name": "florenzi",
-        "team": "Milan"
-      },
-      {
-        "role": "D",
         "name": "gosens",
         "team": "Atalanta"
       },
@@ -188,6 +183,11 @@
         "role": "D",
         "name": "hysaj",
         "team": "Lazio"
+      },
+      {
+        "role": "D",
+        "name": "yoshida",
+        "team": "Sampdoria"
       },
       {
         "role": "C",
@@ -755,8 +755,8 @@
       },
       {
         "role": "A",
-        "name": "boga",
-        "team": "Sassuolo"
+        "name": "bonazzoli",
+        "team": "Salernitana"
       },
       {
         "role": "A",
@@ -831,13 +831,13 @@
       },
       {
         "role": "D",
-        "name": "smalling",
+        "name": "spinazzola",
         "team": "Roma"
       },
       {
         "role": "D",
-        "name": "spinazzola",
-        "team": "Roma"
+        "name": "theate",
+        "team": "Bologna"
       },
       {
         "role": "D",
@@ -891,8 +891,8 @@
       },
       {
         "role": "A",
-        "name": "gyasi",
-        "team": "Spezia"
+        "name": "caprari",
+        "team": "Verona"
       },
       {
         "role": "A",
@@ -1017,6 +1017,11 @@
       },
       {
         "role": "A",
+        "name": "barrow",
+        "team": "Bologna"
+      },
+      {
+        "role": "A",
         "name": "belotti",
         "team": "Torino"
       },
@@ -1034,11 +1039,6 @@
         "role": "A",
         "name": "quagliarella",
         "team": "Sampdoria"
-      },
-      {
-        "role": "A",
-        "name": "shomurodov",
-        "team": "Roma"
       },
       {
         "role": "A",
