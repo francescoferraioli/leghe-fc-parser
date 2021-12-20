@@ -665,13 +665,13 @@
       },
       {
         "role": "P",
-        "name": "reina",
-        "team": "Lazio"
+        "name": "provedel",
+        "team": "Spezia"
       },
       {
         "role": "P",
-        "name": "tatarusanu",
-        "team": "Milan"
+        "name": "reina",
+        "team": "Lazio"
       },
       {
         "role": "D",
@@ -725,6 +725,11 @@
       },
       {
         "role": "C",
+        "name": "gagliardini",
+        "team": "Inter"
+      },
+      {
+        "role": "C",
         "name": "locatelli",
         "team": "Juventus"
       },
@@ -749,19 +754,9 @@
         "team": "Verona"
       },
       {
-        "role": "C",
-        "name": "thorsby",
-        "team": "Sampdoria"
-      },
-      {
         "role": "A",
         "name": "beto",
         "team": "Udinese"
-      },
-      {
-        "role": "A",
-        "name": "bianchi f.",
-        "team": "Genoa"
       },
       {
         "role": "A",
@@ -770,13 +765,18 @@
       },
       {
         "role": "A",
+        "name": "cutrone",
+        "team": "Empoli"
+      },
+      {
+        "role": "A",
         "name": "gabbiadini",
         "team": "Sampdoria"
       },
       {
         "role": "A",
-        "name": "quagliarella",
-        "team": "Sampdoria"
+        "name": "kean",
+        "team": "Juventus"
       },
       {
         "role": "A",
@@ -811,11 +811,6 @@
       },
       {
         "role": "D",
-        "name": "danilo",
-        "team": "Juventus"
-      },
-      {
-        "role": "D",
         "name": "ibanez",
         "team": "Roma"
       },
@@ -828,6 +823,11 @@
         "role": "D",
         "name": "mario rui",
         "team": "Napoli"
+      },
+      {
+        "role": "D",
+        "name": "smalling",
+        "team": "Roma"
       },
       {
         "role": "D",
