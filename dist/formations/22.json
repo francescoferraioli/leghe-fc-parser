@@ -1,0 +1,2182 @@
+[
+  {
+    "sampdoria": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "falcone",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "bereszynski",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "dragusin",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "ferrari a.",
+          "percentage": "70%"
+        },
+        {
+          "role": "D",
+          "name": "augello",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "candreva",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "ekdal",
+          "percentage": "60%"
+        },
+        {
+          "role": "C",
+          "name": "rincon",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "thorsby",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "gabbiadini",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "caputo",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "ravaglia",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "conti",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "murru",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "vieira",
+          "percentage": "30%"
+        },
+        {
+          "role": "C",
+          "name": "askildsen",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "ciervo",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "yepes",
+          "percentage": "25%"
+        },
+        {
+          "role": "A",
+          "name": "torregrossa",
+          "percentage": "25%"
+        },
+        {
+          "role": "A",
+          "name": "quagliarella",
+          "percentage": "50%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "torino": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "milinkovic-savic v.",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "zima",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "bremer",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "rodriguez r.",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "singo",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "lukic",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "pobega",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "vojvoda",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "praet",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "brekalo",
+          "percentage": "80%"
+        },
+        {
+          "role": "A",
+          "name": "sanabria",
+          "percentage": "90%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "gemello",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "berisha",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "izzo",
+          "percentage": "30%"
+        },
+        {
+          "role": "D",
+          "name": "djidji",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "buongiorno",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "fares",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "mandragora",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "verdi",
+          "percentage": "25%"
+        },
+        {
+          "role": "A",
+          "name": "pjaca",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "warming",
+          "percentage": "15%"
+        },
+        {
+          "role": "A",
+          "name": "zaza",
+          "percentage": "40%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "salernitana": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "belec",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "veseli",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "delli carri",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "ranieri l.",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "kechrida",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "obi",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "di tacchio",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "zortea",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "kastanos",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "gondo",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "djuric",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "fiorillo",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "ruggeri",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "schiavone",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "vergani",
+          "percentage": "30%"
+        },
+        {
+          "role": "A",
+          "name": "bonazzoli",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "lazio": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "strakosha",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "lazzari",
+          "percentage": "70%"
+        },
+        {
+          "role": "D",
+          "name": "luiz felipe",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "hysaj",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "marusic",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "milinkovic-savic",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "cataldi",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "luis alberto",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "pedro",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "immobile",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "felipe anderson",
+          "percentage": "55%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "reina",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "adamonis",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "patric",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "vavro",
+          "percentage": "20%"
+        },
+        {
+          "role": "C",
+          "name": "lucas leiva",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "basic",
+          "percentage": "10%"
+        },
+        {
+          "role": "C",
+          "name": "zaccagni",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "moro",
+          "percentage": "50%"
+        },
+        {
+          "role": "A",
+          "name": "muriqi",
+          "percentage": "35%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "juventus": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "szczesny",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "cuadrado",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "de ligt",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "rugani",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "pellegrini lu.",
+          "percentage": "60%"
+        },
+        {
+          "role": "C",
+          "name": "locatelli",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "bentancur",
+          "percentage": "60%"
+        },
+        {
+          "role": "C",
+          "name": "mckennie",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "dybala",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "kulusevski",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "morata",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "perin",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "pinsoglio",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "alex sandro",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "de sciglio",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "de winter",
+          "percentage": "10%"
+        },
+        {
+          "role": "D",
+          "name": "chiellini",
+          "percentage": "35%"
+        },
+        {
+          "role": "C",
+          "name": "bernardeschi",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "arthur",
+          "percentage": "40%"
+        },
+        {
+          "role": "C",
+          "name": "rabiot",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "kaio jorge",
+          "percentage": "30%"
+        },
+        {
+          "role": "A",
+          "name": "kean",
+          "percentage": "50%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "udinese": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "padelli",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "perez n.",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "nuytinck",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "zeegelaar",
+          "percentage": "70%"
+        },
+        {
+          "role": "D",
+          "name": "soppy",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "arslan",
+          "percentage": "70%"
+        },
+        {
+          "role": "C",
+          "name": "walace",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "makengo",
+          "percentage": "70%"
+        },
+        {
+          "role": "D",
+          "name": "udogie",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "deulofeu",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "beto",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "piana",
+          "percentage": "5%"
+        },
+        {
+          "role": "C",
+          "name": "jajalo",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "pussetto",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "nestorovski",
+          "percentage": "50%"
+        },
+        {
+          "role": "A",
+          "name": "success",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "sassuolo": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "consigli",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "toljan",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "chiriches",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "ferrari g.",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "rogerio",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "lopez m.",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "frattesi",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "harroui",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "defrel",
+          "percentage": "80%"
+        },
+        {
+          "role": "A",
+          "name": "raspadori",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "scamacca",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "pegolo",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "satalino",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "ayhan",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "ruan",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "muldur",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "kyriakopoulos",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "verona": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "pandur",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "gunter",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "ceccherini",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "casale",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "depaoli",
+          "percentage": "70%"
+        },
+        {
+          "role": "C",
+          "name": "tameze",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "miguel veloso",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "lazovic",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "barak",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "caprari",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "simeone",
+          "percentage": "90%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "D",
+          "name": "ruegg",
+          "percentage": "25%"
+        },
+        {
+          "role": "D",
+          "name": "magnani",
+          "percentage": "50%"
+        },
+        {
+          "role": "A",
+          "name": "cancellieri",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "lasagna",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "ragusa",
+          "percentage": "15%"
+        },
+        {
+          "role": "A",
+          "name": "kalinic",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "venezia": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "romero s.",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "mazzocchi",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "caldara",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "ceccaroni",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "haps",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "cuisance",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "ampadu",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "busio",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "aramu",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "henry",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "johnsen",
+          "percentage": "70%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "lezzerini",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "molinaro",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "schnegg",
+          "percentage": "20%"
+        },
+        {
+          "role": "D",
+          "name": "modolo",
+          "percentage": "30%"
+        },
+        {
+          "role": "C",
+          "name": "sigurdsson a.",
+          "percentage": "40%"
+        },
+        {
+          "role": "C",
+          "name": "crnigoj",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "fiordilino",
+          "percentage": "40%"
+        },
+        {
+          "role": "C",
+          "name": "kiyine",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "heymans",
+          "percentage": "15%"
+        },
+        {
+          "role": "C",
+          "name": "peretz",
+          "percentage": "15%"
+        },
+        {
+          "role": "C",
+          "name": "tessmann",
+          "percentage": "50%"
+        },
+        {
+          "role": "A",
+          "name": "okereke",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "empoli": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "vicario",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "stojanovic",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "ismajli",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "tonelli",
+          "percentage": "65%"
+        },
+        {
+          "role": "D",
+          "name": "luperto",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "henderson l.",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "ricci s.",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "zurkowski",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "bajrami",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "cutrone",
+          "percentage": "70%"
+        },
+        {
+          "role": "A",
+          "name": "pinamonti",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "ujkani",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "marchizza",
+          "percentage": "15%"
+        },
+        {
+          "role": "D",
+          "name": "fiamozzi",
+          "percentage": "20%"
+        },
+        {
+          "role": "D",
+          "name": "romagnoli s.",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "stulac",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "asllani",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "bandinelli",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "mancuso",
+          "percentage": "35%"
+        },
+        {
+          "role": "A",
+          "name": "la mantia",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "roma": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "rui patricio",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "maitland-niles",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "mancini",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "kumbulla",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "vina",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "oliveira",
+          "percentage": "60%"
+        },
+        {
+          "role": "C",
+          "name": "veretout",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "zaniolo",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "pellegrini lo.",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "mkhitaryan",
+          "percentage": "80%"
+        },
+        {
+          "role": "A",
+          "name": "abraham",
+          "percentage": "90%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "fuzato",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "boer",
+          "percentage": "1%"
+        },
+        {
+          "role": "C",
+          "name": "bove",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "zalewski",
+          "percentage": "30%"
+        },
+        {
+          "role": "A",
+          "name": "afena-gyan",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "carles perez",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "el shaarawy",
+          "percentage": "30%"
+        },
+        {
+          "role": "A",
+          "name": "shomurodov",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "cagliari": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "cragno",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "altare",
+          "percentage": "70%"
+        },
+        {
+          "role": "D",
+          "name": "lovato",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "carboni",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "bellanova",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "nandez",
+          "percentage": "60%"
+        },
+        {
+          "role": "C",
+          "name": "marin",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "grassi",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "lykogiannis",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "pavoletti",
+          "percentage": "65%"
+        },
+        {
+          "role": "A",
+          "name": "joao pedro",
+          "percentage": "90%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "radunovic",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "aresti",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "goldaniga",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "zappa",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "dalbert",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "obert",
+          "percentage": "25%"
+        },
+        {
+          "role": "C",
+          "name": "ladinetti",
+          "percentage": "25%"
+        },
+        {
+          "role": "C",
+          "name": "deiola",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "pereiro",
+          "percentage": "60%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "atalanta": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "musso",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "palomino",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "demiral",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "djimsiti",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "hateboer",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "de roon",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "freuler",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "pezzella giu.",
+          "percentage": "70%"
+        },
+        {
+          "role": "C",
+          "name": "pasalic",
+          "percentage": "60%"
+        },
+        {
+          "role": "C",
+          "name": "pessina",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "muriel",
+          "percentage": "90%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "rossi f.",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "maehle",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "scalvini",
+          "percentage": "15%"
+        },
+        {
+          "role": "C",
+          "name": "koopmeiners",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "miranchuk",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "malinovskyi",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "ilicic",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "inter": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "handanovic",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "skriniar",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "de vrij",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "bastoni",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "dumfries",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "barella",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "brozovic",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "calhanoglu",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "perisic",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "sanchez",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "dzeko",
+          "percentage": "80%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "radu i.",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "dimarco",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "d'ambrosio",
+          "percentage": "40%"
+        },
+        {
+          "role": "D",
+          "name": "kolarov",
+          "percentage": "15%"
+        },
+        {
+          "role": "D",
+          "name": "ranocchia",
+          "percentage": "25%"
+        },
+        {
+          "role": "D",
+          "name": "darmian",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "vecino",
+          "percentage": "25%"
+        },
+        {
+          "role": "C",
+          "name": "gagliardini",
+          "percentage": "40%"
+        },
+        {
+          "role": "C",
+          "name": "vidal",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "sensi",
+          "percentage": "30%"
+        },
+        {
+          "role": "A",
+          "name": "correa",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "martinez l.",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "bologna": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "skorupski",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "bonifazi",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "soumaoro",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "theate",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "de silvestri",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "svanberg",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "dominguez",
+          "percentage": "60%"
+        },
+        {
+          "role": "D",
+          "name": "dijks",
+          "percentage": "70%"
+        },
+        {
+          "role": "C",
+          "name": "soriano",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "sansone",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "arnautovic",
+          "percentage": "90%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "bardi",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "binks",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "hickey",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "viola",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "skov olsen",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "schouten",
+          "percentage": "20%"
+        },
+        {
+          "role": "C",
+          "name": "orsolini",
+          "percentage": "50%"
+        },
+        {
+          "role": "A",
+          "name": "falcinelli",
+          "percentage": "30%"
+        },
+        {
+          "role": "A",
+          "name": "cangiano",
+          "percentage": "15%"
+        },
+        {
+          "role": "A",
+          "name": "van hooijdonk",
+          "percentage": "40%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "napoli": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "meret",
+          "percentage": "70%"
+        },
+        {
+          "role": "D",
+          "name": "di lorenzo",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "rrahmani",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "juan jesus",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "mario rui",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "demme",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "ruiz",
+          "percentage": "80%"
+        },
+        {
+          "role": "A",
+          "name": "politano",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "zielinski",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "lozano",
+          "percentage": "70%"
+        },
+        {
+          "role": "A",
+          "name": "mertens",
+          "percentage": "55%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "ospina",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "marfella",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "zanoli",
+          "percentage": "20%"
+        },
+        {
+          "role": "D",
+          "name": "ghoulam",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "malcuit",
+          "percentage": "30%"
+        },
+        {
+          "role": "D",
+          "name": "tuanzebe",
+          "percentage": "35%"
+        },
+        {
+          "role": "C",
+          "name": "lobotka",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "elmas",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "petagna",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "osimhen",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "milan": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "maignan",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "florenzi",
+          "percentage": "65%"
+        },
+        {
+          "role": "D",
+          "name": "kalulu",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "gabbia",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "hernandez t.",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "krunic",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "bakayoko",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "saelemaekers",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "diaz b.",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "rafael leao",
+          "percentage": "65%"
+        },
+        {
+          "role": "A",
+          "name": "ibrahimovic",
+          "percentage": "60%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "tatarusanu",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "mirante",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "stanga",
+          "percentage": "15%"
+        },
+        {
+          "role": "D",
+          "name": "calabria",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "maldini",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "messias",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "castillejo",
+          "percentage": "25%"
+        },
+        {
+          "role": "A",
+          "name": "rebic",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "giroud",
+          "percentage": "55%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "spezia": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "provedel",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "amian",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "erlic",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "nikolaou",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "gyasi",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "maggiore",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "kovalenko",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "bastoni s.",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "reca",
+          "percentage": "85%"
+        },
+        {
+          "role": "A",
+          "name": "manaj",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "nzola",
+          "percentage": "55%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "zoet",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "zovko",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "ferrer",
+          "percentage": "30%"
+        },
+        {
+          "role": "D",
+          "name": "hristov",
+          "percentage": "35%"
+        },
+        {
+          "role": "D",
+          "name": "kiwior",
+          "percentage": "50%"
+        },
+        {
+          "role": "D",
+          "name": "sala",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "sher",
+          "percentage": "25%"
+        },
+        {
+          "role": "C",
+          "name": "agudelo",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "bourabia",
+          "percentage": "40%"
+        },
+        {
+          "role": "A",
+          "name": "verde",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "strelec",
+          "percentage": "50%"
+        },
+        {
+          "role": "A",
+          "name": "antiste",
+          "percentage": "40%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  },
+  {
+    "fiorentina": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "terracciano",
+          "percentage": "65%"
+        },
+        {
+          "role": "D",
+          "name": "odriozola",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "milenkovic",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "igor",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "biraghi",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "bonaventura",
+          "percentage": "90%"
+        },
+        {
+          "role": "C",
+          "name": "torreira",
+          "percentage": "85%"
+        },
+        {
+          "role": "C",
+          "name": "duncan",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "ikone'",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "vlahovic",
+          "percentage": "90%"
+        },
+        {
+          "role": "A",
+          "name": "gonzalez n.",
+          "percentage": "75%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "dragowski",
+          "percentage": "5%"
+        },
+        {
+          "role": "P",
+          "name": "rosati",
+          "percentage": "1%"
+        },
+        {
+          "role": "D",
+          "name": "terzic",
+          "percentage": "15%"
+        },
+        {
+          "role": "D",
+          "name": "venuti",
+          "percentage": "40%"
+        },
+        {
+          "role": "D",
+          "name": "nastasic",
+          "percentage": "25%"
+        },
+        {
+          "role": "C",
+          "name": "castrovilli",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "maleh",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "saponara",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "pulgar",
+          "percentage": "40%"
+        },
+        {
+          "role": "C",
+          "name": "callejon",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "kokorin",
+          "percentage": "15%"
+        },
+        {
+          "role": "A",
+          "name": "piatek",
+          "percentage": "50%"
+        }
+      ],
+      "homeOrAway": "home"
+    },
+    "genoa": {
+      "starting": [
+        {
+          "role": "P",
+          "name": "sirigu",
+          "percentage": "90%"
+        },
+        {
+          "role": "D",
+          "name": "ostigard",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "bani",
+          "percentage": "85%"
+        },
+        {
+          "role": "D",
+          "name": "criscito",
+          "percentage": "80%"
+        },
+        {
+          "role": "D",
+          "name": "hefti",
+          "percentage": "70%"
+        },
+        {
+          "role": "C",
+          "name": "sturaro",
+          "percentage": "80%"
+        },
+        {
+          "role": "C",
+          "name": "badelj",
+          "percentage": "70%"
+        },
+        {
+          "role": "C",
+          "name": "rovella",
+          "percentage": "55%"
+        },
+        {
+          "role": "D",
+          "name": "calafiori",
+          "percentage": "60%"
+        },
+        {
+          "role": "A",
+          "name": "caicedo",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "destro",
+          "percentage": "85%"
+        }
+      ],
+      "reserves": [
+        {
+          "role": "P",
+          "name": "semper",
+          "percentage": "5%"
+        },
+        {
+          "role": "D",
+          "name": "vanheusden",
+          "percentage": "40%"
+        },
+        {
+          "role": "D",
+          "name": "masiello",
+          "percentage": "30%"
+        },
+        {
+          "role": "D",
+          "name": "ghiglione",
+          "percentage": "50%"
+        },
+        {
+          "role": "C",
+          "name": "cassata",
+          "percentage": "35%"
+        },
+        {
+          "role": "C",
+          "name": "melegoni",
+          "percentage": "55%"
+        },
+        {
+          "role": "C",
+          "name": "galdames",
+          "percentage": "30%"
+        },
+        {
+          "role": "C",
+          "name": "portanova",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "yeboah",
+          "percentage": "40%"
+        },
+        {
+          "role": "A",
+          "name": "pandev",
+          "percentage": "55%"
+        },
+        {
+          "role": "A",
+          "name": "buksa",
+          "percentage": "15%"
+        },
+        {
+          "role": "A",
+          "name": "ekuban",
+          "percentage": "50%"
+        }
+      ],
+      "homeOrAway": "away"
+    }
+  }
+]
