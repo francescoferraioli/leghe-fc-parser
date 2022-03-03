@@ -1,0 +1,5 @@
+if [[ $OSTYPE == 'msys'* ]]; then
+  start chrome $1
+else
+  chromium $1
+fi
